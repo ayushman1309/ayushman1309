@@ -15,17 +15,11 @@
 ---
 
 ## 🔥 About Me
-- 🌱 Currently exploring **Web Development** & **Data Structures & Algorithms**  
+- 🌱 Currently exploring **Web Development**, **Data Structures & Algorithms**, and a bit of **Machine Learning** in my free time 🤓  
 - 💻 Love building **full-stack projects**  
 - ⚡ Fun fact: I enjoy solving problems on **LeetCode**  
 - 🎯 Goal: Become a skilled **Software Engineer**  
-
----
-
-## 🖼️ Avatar
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" height="150" style="border-radius:50%; border: 3px solid #F84565;">
-</p>
+ 
 
 ---
 
