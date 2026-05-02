@@ -74,9 +74,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushman1309&show_icons=true&theme=radical" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman1309&layout=compact&theme=radical" />  
-  <img src="https://streak-stats.demolab.com?user=ayushman1309&theme=radical" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushman1309&show_icons=true&theme=radical&cache_seconds=86400" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman1309&layout=compact&theme=radical&cache_seconds=86400" />  
+  <img src="https://streak-stats.demolab.com?user=ayushman1309&theme=radical&cache_seconds=86400" />  
 </p>
 
 ---
