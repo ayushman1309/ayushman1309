@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ayushman Pathak</h1>
 
 <p align="center">
-  💻 Software Engineer in the Making | ☕ Java & Spring Boot | 🧠 DSA | 🚀 Backend & DevOps
+  💻 🎮| ☕ Java & Spring Boot | 🧠 DSA | 🚀 Backend & DevOps
 </p>
 
 <p align="center">
