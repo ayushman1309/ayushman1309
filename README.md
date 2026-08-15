@@ -29,11 +29,12 @@
 
 * 🎓 Computer Science student focused on software engineering and placements
 * 🧠 Strengthening **Data Structures & Algorithms** through consistent problem solving
-* ☕ Building backend applications with **Java, Spring Boot, Spring Data JPA & REST APIs**
+* ☕ Building backend applications using **Java, Spring Boot, Spring Data JPA & REST APIs**
 * 🐳 Learning and practicing **Docker, Kubernetes, Helm & DevOps fundamentals**
-* 🌐 Familiar with **MERN Stack Development** and frontend fundamentals
-* 🗄️ Working with **SQL, MongoDB, PostgreSQL concepts & database design**
-* 🚀 Interested in building scalable, production-oriented applications
+* 🌐 Familiar with **MERN Stack Development**
+* 🗄️ Working with **SQL, MySQL, PostgreSQL & MongoDB**
+* 🚀 Interested in building scalable and production-oriented applications
+* 🎯 Currently preparing for **Software Engineering placements**
 
 ---
 
@@ -41,23 +42,39 @@
 
 ### 💻 Languages
 
-`Java` `C++` `JavaScript` `Python` `SQL`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,python,mysql&perline=5" />
+</p>
 
 ### ⚙️ Backend
 
-`Spring Boot` `Spring MVC` `Spring Data JPA` `REST APIs` `Hibernate` `Node.js` `Express.js`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=5" />
+</p>
 
 ### 🌐 Frontend
 
-`React.js` `HTML` `CSS` `JavaScript`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css&perline=5" />
+</p>
 
 ### 🗄️ Databases
 
-`MySQL` `PostgreSQL` `MongoDB`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=5" />
+</p>
 
-### ☁️ DevOps & Tools
+### ☁️ DevOps
 
-`Docker` `Kubernetes` `Helm` `Git` `GitHub` `Linux` `Postman` `VS Code`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&perline=5" />
+</p>
+
+### 🧰 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=5" />
+</p>
 
 ---
 
@@ -65,55 +82,97 @@
 
 ### 🛒 CartFlow – E-Commerce Backend
 
-🔗 **GitHub:** [CartFlow](https://github.com/ayushman1309)
+🔗 **GitHub:** [View Project](https://github.com/ayushman1309)
 
 * Backend-focused e-commerce application
-* Built with **Spring Boot** and RESTful APIs
-* Authentication and authorization using **JWT**
-* Database interaction using **Spring Data JPA / Hibernate**
-* Designed with a layered backend architecture
-
-### 🎬 CineMate – Movie Booking System
-
-🔗 https://github.com/ayushman1309/-Movie-Booking-System
-
-* Full-stack MERN application
-* User movie booking workflow and admin dashboard
-* Focused on real-world application structure and API integration
-
-### ☸️ DevOps & Kubernetes Practice
-
-🔗 https://github.com/ayushman1309
-
-* Hands-on practice with **Linux, Git, Docker and Kubernetes**
-* Worked with **Minikube, kubectl, Helm, Deployments, Pods, Services, PV & PVC**
-* Building practical DevOps knowledge through mini projects
-
-### 📊 Data Analysis Project
-
-🔗 https://github.com/ayushman1309/Data_Analysis
-
-* Python-based data analysis project
-* Data cleaning, analysis and visualization
-
-### ⚛️ React Gemini Clone
-
-🔗 https://github.com/ayushman1309/ReactProject
-
-* React-based Gemini-inspired interface
-* Practiced component-based UI development and API integration
+* Built using **Spring Boot**
+* Designed RESTful APIs for application functionality
+* Implemented **JWT-based authentication and authorization**
+* Database interaction using **Spring Data JPA & Hibernate**
+* Followed a structured layered backend architecture
 
 ---
 
-## 📚 DSA & Problem Solving
+### 🎬 CineMate – Movie Booking System
 
-I regularly practice **Data Structures & Algorithms** for technical interviews and online assessments.
+🔗 **GitHub:** https://github.com/ayushman1309/CineMate
 
-### Current DSA Focus
+* Full-stack **MERN** application
+* Movie booking workflow for users
+* Admin dashboard for managing the application
+* REST API integration between frontend and backend
+* Built with a real-world application structure
 
-`Arrays` `Strings` `Stack` `Queue` `Linked List` `Trees` `Graphs` `Binary Search` `Recursion` `Dynamic Programming`
+---
 
-🔗 **LeetCode:** https://leetcode.com/u/ayushman3009/
+### 🐳 DevOps & Kubernetes Practice
+
+🔗 **GitHub:** https://github.com/ayushman1309
+
+* Hands-on practice with **Linux, Git, Docker and Kubernetes**
+* Worked with **Docker images, containers, volumes and Docker Compose**
+* Practiced Kubernetes **Pods, Deployments and Services**
+* Worked with **Minikube, kubectl and Helm**
+* Explored **Persistent Volumes (PV) and Persistent Volume Claims (PVC)**
+
+---
+
+### 📊 Data Analysis Project
+
+🔗 **GitHub:** https://github.com/ayushman1309/Data_Analysis
+
+* Python-based data analysis project
+* Data cleaning and analysis
+* Data visualization
+* Extracted useful insights from datasets
+
+---
+
+### ⚛️ React Gemini Clone
+
+🔗 **GitHub:** https://github.com/ayushman1309/ReactProject
+
+* React-based Gemini-inspired interface
+* Component-based frontend architecture
+* Practiced API integration
+* Focused on responsive UI development
+
+---
+
+## 🧠 DSA & Problem Solving
+
+I regularly practice **Data Structures & Algorithms** to improve my problem-solving skills and prepare for technical interviews and online assessments.
+
+### 📌 Current DSA Focus
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java" />
+</p>
+
+`Arrays` `Strings` `Hashing` `Stack` `Queue` `Linked List`
+`Binary Search` `Trees` `Graphs` `Recursion` `Dynamic Programming`
+
+<p align="center">
+  <a href="https://leetcode.com/u/ayushman3009/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📚 Backend Learning
+
+Currently strengthening my backend development skills with:
+
+* ☕ **Core Java & OOP**
+* 🌱 **Spring & Spring Boot**
+* 🔗 **REST API Development**
+* 🗄️ **Spring Data JPA & Hibernate**
+* 🔐 **JWT Authentication & Authorization**
+* 🧩 **Dependency Injection & IoC**
+* 🗃️ **SQL & Database Design**
+* 🏗️ **Backend Architecture**
+* 🚀 **Docker & Kubernetes**
 
 ---
 
@@ -149,12 +208,15 @@ System Design               ███████████░░░░░░�
   <a href="https://www.linkedin.com/in/ayushman-pathak-98629128">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://leetcode.com/u/ayushman3009/">
     <img src="https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+
   <a href="mailto:pathakayush1309@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
   <a href="https://github.com/ayushman1309">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
