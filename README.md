@@ -139,18 +139,7 @@
 
 ---
 
-## 🧠 DSA & Problem Solving
 
-I regularly practice **Data Structures & Algorithms** to improve my problem-solving skills and prepare for technical interviews and online assessments.
-
-### 📌 Current DSA Focus
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java" />
-</p>
-
-`Arrays` `Strings` `Hashing` `Stack` `Queue` `Linked List`
-`Binary Search` `Trees` `Graphs` `Recursion` `Dynamic Programming`
 
 <p align="center">
   <a href="https://leetcode.com/u/ayushman3009/">
