@@ -1,18 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">
-</p>
 
 <h1 align="center">Hi 👋, I'm Ayushman Pathak</h1>
-
-<p align="center">
-  💻 🎮| ☕ Java & Spring Boot | 🧠 DSA | 🚀 Backend & DevOps
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ayushman1309">
-    <img src="https://komarev.com/ghpvc/?username=ayushman1309&color=brightgreen" alt="Profile Views"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/ayushman1309">
@@ -23,20 +10,7 @@
   </a>
 </p>
 
----
 
-## 👨‍💻 About Me
-
-* 🎓 Computer Science student focused on software engineering and placements
-* 🧠 Strengthening **Data Structures & Algorithms** through consistent problem solving
-* ☕ Building backend applications using **Java, Spring Boot, Spring Data JPA & REST APIs**
-* 🐳 Learning and practicing **Docker, Kubernetes, Helm & DevOps fundamentals**
-* 🌐 Familiar with **MERN Stack Development**
-* 🗄️ Working with **SQL, MySQL, PostgreSQL & MongoDB**
-* 🚀 Interested in building scalable and production-oriented applications
-* 🎯 Currently preparing for **Software Engineering placements**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -78,68 +52,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 🛒 CartFlow – E-Commerce Backend
-
-🔗 **GitHub:** [View Project](https://github.com/ayushman1309)
-
-* Backend-focused e-commerce application
-* Built using **Spring Boot**
-* Designed RESTful APIs for application functionality
-* Implemented **JWT-based authentication and authorization**
-* Database interaction using **Spring Data JPA & Hibernate**
-* Followed a structured layered backend architecture
-
----
-
-### 🎬 CineMate – Movie Booking System
-
-🔗 **GitHub:** https://github.com/ayushman1309/CineMate
-
-* Full-stack **MERN** application
-* Movie booking workflow for users
-* Admin dashboard for managing the application
-* REST API integration between frontend and backend
-* Built with a real-world application structure
-
----
-
-### 🐳 DevOps & Kubernetes Practice
-
-🔗 **GitHub:** https://github.com/ayushman1309
-
-* Hands-on practice with **Linux, Git, Docker and Kubernetes**
-* Worked with **Docker images, containers, volumes and Docker Compose**
-* Practiced Kubernetes **Pods, Deployments and Services**
-* Worked with **Minikube, kubectl and Helm**
-* Explored **Persistent Volumes (PV) and Persistent Volume Claims (PVC)**
-
----
-
-### 📊 Data Analysis Project
-
-🔗 **GitHub:** https://github.com/ayushman1309/Data_Analysis
-
-* Python-based data analysis project
-* Data cleaning and analysis
-* Data visualization
-* Extracted useful insights from datasets
-
----
-
-### ⚛️ React Gemini Clone
-
-🔗 **GitHub:** https://github.com/ayushman1309/ReactProject
-
-* React-based Gemini-inspired interface
-* Component-based frontend architecture
-* Practiced API integration
-* Focused on responsive UI development
-
----
-
-
 
 <p align="center">
   <a href="https://leetcode.com/u/ayushman3009/">
@@ -176,25 +88,12 @@ Currently strengthening my backend development skills with:
   <img src="https://streak-stats.demolab.com?user=ayushman1309&theme=radical&hide_border=true" height="165" />
 </p>
 
----
 
-## 🎯 Current Focus
-
-```text
-DSA & Problem Solving       ████████████████████░  90%
-Spring Boot & Backend       ██████████████████░░░  85%
-Java & OOP                  ██████████████████░░░  85%
-SQL & DBMS                  ████████████████░░░░░  75%
-Docker & Kubernetes         ███████████████░░░░░░  70%
-System Design               ███████████░░░░░░░░░░  55%
-```
-
----
 
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayushman-pathak-98629128">
+  <a href="https://www.linkedin.com/in/ayushman-pathak13">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
@@ -214,7 +113,7 @@ System Design               ███████████░░░░░░�
 ---
 
 <p align="center">
-  ⭐ <i>"First, solve the problem. Then, write the code."</i> ⭐
+  ⭐ <i>"I'm Vengeance "</i> ⭐
 </p>
 
 <p align="center">
